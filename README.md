@@ -1,6 +1,6 @@
 # :clipboard: Repositorio de Trabajos de Clase de Programación :computer:
 
-- Repositorio personal, donde se estara publicando los trabajos y actividades hechas.
+- Repositorio personal, de actividades y/o trabajos realizados.
 
 ## :pushpin: Actividades
 
@@ -8,4 +8,4 @@
 - :two: Estrella
 
 
-###### Universidad 1er Semestre
+###### :cookie:
