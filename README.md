@@ -6,6 +6,9 @@
 
 - :one: Captura de Datos
 - :two: Estrella
+- :three: Función Propia
+- :four: Comentarios
+- :five: Variables
 
 
 ###### :cookie:
