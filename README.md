@@ -32,7 +32,7 @@
 
 ## :mortar_board: Actividad Final
 
-- :beginner: Texto :beginner:
+- :beginner: [Proyecto Final (Menu)](https://github.com/SrTuns/Universidad/tree/main/Proyecto%20Final) :beginner:
 
 
 ###### :cookie: Enero 2022 ~ Mayo 2022 :cookie:
