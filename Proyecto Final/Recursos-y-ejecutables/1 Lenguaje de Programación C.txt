@@ -1,0 +1,7 @@
+						> Lenguaje C <
+
+	El lenguaje C se considera de proposito general, ademas es de tipo “compilado”, lo cual hace
+	referencia a que convierte su código fuente en un fichero objeto y éste es uno ejecutable.
+
+
+

@@ -1,0 +1,25 @@
+						> Calificadores de Datos <
+
+	Los calificadores de tipo tienen la misión de modificar el rango de valores de un determinado tipo
+	De variable, los cuales son:
+
+      > Short – Rango de valores en formato corto: <
+
+	Tipo		Tamaño		Rango de Valores
+
+	short char	1 byte		-128 a 127
+	short int	2 bytes		-32768 a 32767
+
+      > long – Rango de valores en formato largo: <
+
+	Tipo		Tamaño		Rango de Valores
+
+	long int	4 bytes		-2.147.483.648 a 2.147.483.647
+	long double	10 bytes	-3’36 E-4932 a 1’18 E+4932
+
+
+
+
+
+
+

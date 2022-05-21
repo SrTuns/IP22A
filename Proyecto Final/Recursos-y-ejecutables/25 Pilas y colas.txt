@@ -1,0 +1,15 @@
+						> Pilas y Colas <
+
+	>> Pilas <<
+
+	Este tipo de estructuras se caracteriza porque todas las operaciones se realizan en el mismo lado.
+	Es de tipo LIFO (Last in First Out), el ultimo elemento en entrar es el primero en salir.
+
+	>> Colas <<
+
+	Este tipo de estructuras se caracteriza porque insertamos lo elementos por un lado y salen
+	por el otro.
+	Es tipo FIFO (First In First Out), el primer elemento en entrar es el primero en salir.
+
+
+

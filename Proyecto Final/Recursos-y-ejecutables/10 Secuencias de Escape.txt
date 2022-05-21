@@ -1,0 +1,19 @@
+						> Secuencias de Escape <
+
+	Existen varios caracteres las cuales no se pueden representar gráficamente, por lo cual se usa
+	la secuencia de escape, las más comunes son:
+
+	\n	Salto de línea
+	\b	Retroceso
+	\t	Tabulación horizontal
+	\v	Tabulación vertical
+	\\	Contrabarra
+	\f	Salto de página
+	\’	Apóstrofe
+	\”	Comillas dobles
+	\0	Fin de una cadena de caracteres
+
+
+
+
+

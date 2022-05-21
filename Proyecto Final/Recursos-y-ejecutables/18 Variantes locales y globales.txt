@@ -1,0 +1,12 @@
+					  > Variantes locales y globales <
+
+	Una variable local son creadas cuando el programa llega a la función en la que estan definidas,
+	suelen estar declaradas dentro de unas llaves y el valor que se les da, solo se aplica a una
+	determinda sección.
+
+	Una variable global es la que hace efecto durante todo el programa, como si se tratara de un int.
+
+
+
+
+

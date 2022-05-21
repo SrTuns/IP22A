@@ -1,0 +1,19 @@
+							> Variables <
+
+	Una variable es un tipo de dato referenciado a un identificador, el contenido que llegara a poseer
+	Puede ser modificado a lo largo del programa, además, se pueden declarar mas de una variable
+	en la misma línea, por ejemplo:
+
+	#include <stdio.h>
+
+	main() /* Suma dos valores */
+	{
+		int num1=4,num2,num3=6;
+		printf("El valor de num1 es %d",num1);
+		printf("\nEl valor de num3 es %d",num3);
+		num2=num1+num3;
+		printf("\nnum1 + num3 = %d",num2);
+	}
+
+
+

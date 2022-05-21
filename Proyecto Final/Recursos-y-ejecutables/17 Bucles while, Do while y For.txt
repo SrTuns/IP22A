@@ -1,0 +1,34 @@
+					  > Bucles while, Do while y For <
+
+	Son estructuras de repetición donde realizan tareas recurrentes y se usan para el control de flujo
+	en un determinado número de veces.
+
+	>> while <<
+
+	while (condición) sentencia;
+
+	Esta sentencia controla la condición antes de entrar al bucle, de ser que no cumple no entrará en
+	bucle.
+
+	>> do while <<
+
+	do {
+	sentencia1;
+	sentencia2;
+	} while (condición);
+
+	Con esta sentencia se contrala la condición final del bucle, si este se cumple, el programa vuelve a ejecutar las sentencias del bucle.
+
+	>> for <<
+
+	for (inicialización;condición;incremento)
+	{
+	sentencia1;
+	sentencia2;
+	}
+
+	La inicialización indica una variable que condiciona la repetición del bucle.
+
+
+
+

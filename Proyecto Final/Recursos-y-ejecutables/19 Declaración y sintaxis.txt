@@ -1,0 +1,7 @@
+					   > Declaración y sintaxis <
+
+	Las funciones son bloques de código utilizados para dividir un programa por partes mas pequeñas,
+	las cuales cada una tiene una tarea ya determinada.
+
+
+

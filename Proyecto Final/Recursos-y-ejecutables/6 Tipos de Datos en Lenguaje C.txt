@@ -1,0 +1,14 @@
+						> Tipos de Datos en Lenguaje C <
+
+	Para poder uso de variables, se tienen que declarar con algún tipo de dato, dependiendo del tipo
+	será la memoria que este consuma, las siguientes son:
+
+	Tipo	Tamaño	Rango de Valores
+
+        Char	1 byte	-128 a 127
+	Int	2 bytes	-32768 a 32767
+	Float	4 bytes	3'4 E-38 a 3'4 E+38
+	Double	8 bytes	1'7 E-308 a 1'7 E+308
+
+
+

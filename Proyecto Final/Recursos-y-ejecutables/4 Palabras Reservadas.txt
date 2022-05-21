@@ -1,0 +1,21 @@
+						  > Palabras Reservadas <
+
+	Las palabras reservadas son aquellas que ya tienen una funcionalidad determinada, por lo que
+	no podemos utilizarlos como identificadores.
+
+	Algunos ejemplos pueden ser:
+
+	> char
+	> int
+	> float
+	> double
+	> if
+	> else
+	> do
+	> while
+	> for
+	> switch
+	> break
+
+
+

@@ -1,0 +1,14 @@
+						> Operadores Aritméticos <
+
+	Los operadores mas comunes son: la suma, resta, multiplicación y división.
+
+	Signo	Operación
+
+	+	Suma
+	-	Resta
+	*	Multiplicación
+	/	División
+	%	Módulo
+
+
+

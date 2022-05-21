@@ -1,0 +1,27 @@
+						  > Comentarios <
+
+	Los comentarios sirven mas que nada para dejar algún tipo de contexto en cierta parte del código,
+	como puede ser para que sirve dicha línea, función o hasta para dejar nota de que fue lo ultimo
+	que tocaste o agregaste.
+
+	Existen 2 formas de agregar un comentario y cada uno tiene una forma de usarlo diferente:
+
+	1-  Con //
+	Para colocar un comentario, basta con poner “//” al inicio de la oración, por ejemplo:
+	//Esto es un simple comentario
+	>> NOTA: Solo funciona para la línea en la cual se coloca <<
+
+	2- Con /* */
+	Para colocar un comentario de este tipo, basta con iniciar colocando /*, escribir lo que quieras
+	y cerrar con */ como si de una llave se tratase, por ejemplo:
+	/* Esto es
+		Un simple
+			Comentario */
+	>> NOTA: A diferencia de la anterior forma, este se puede aprovechar para acampar varias líneas
+	a la vez. <<
+
+	Tip: Puedes usar los comentarios para “inutilizar” parte del código si no quieres borrarlo
+	directamente, así por si en un futuro ocuparas de nuevo el código, ya lo tengas dentro.
+
+
+

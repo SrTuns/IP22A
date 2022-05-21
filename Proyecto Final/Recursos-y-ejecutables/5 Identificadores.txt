@@ -1,0 +1,19 @@
+						  > Identificadores <
+
+	Un identificador es el nombre que le damos a las variables y funciones, su estructura se forma a
+	base de letras y dígitos, además, acepta _ (se puede usar para interpretar el espacio) aunque no
+	sea compatible los acentos ni ñ/Ñ.
+
+	Algo la cual se tiene que tomar en cuenta, es que se tiene que iniciar con una letra, no con un
+	número, además, las mayúsculas pueden hacer que una palabra valga diferentes identificadores,
+	por ejemplo: 
+
+	> Hola
+	> hOla
+	> hoLa
+	> holA
+
+	Aunque sean la misma palabra, no funcionan a la mano.
+
+
+

@@ -1,0 +1,38 @@
+						    > Printf y Scanf <
+
+	Dentro de C, existe una forma tanto para imprimir datos en la pantalla, como capturar datos,
+	las cuales son “printf” y “scanf”.
+
+	>> printf <<
+
+	Con “printf” podemos imprimir datos las cuales nosotros establecemos desde un inicio, o de lo
+	contrario, datos dados por el mismo usuario.
+	Al momento de imprimir, la manera en la cual establescas el orden de las variantes, sera como se
+	reflejera en la pantalla, por ejemplo:
+
+	prinft(“La suma de los numeros %d y %d es &d”, numero1, numero2, resultado);
+
+	La primera “%d” saldra con el valor de “numero1” y así sucesivamente, valor la cual se otorgo al
+	momento de que se le solicito un dato.
+
+	>> scanf <<
+
+	Con “scanf” podemos capturar un dato con la ayuda de una declaración al inicio de main, por ejemplo:
+	main () {
+		………
+
+		int numero1, numero2, resultado;
+	
+		printf(“Introduzca un número: “);
+		scanf(“%d”, &numero1); >> El valor que sea insertado, se guardara en "numero1" <<
+
+		printf(“Introduzca otro número: “);
+		scanf(“%d”, &numero2); >> El valor que sea insertado, se guardara en "numero2" <<
+
+		resultado=numero1+numero2; >> Aquí se hace que resultado sea la suma de los 2 numeros <<
+
+		printf(“La suma del numero %d y %d es %d”, numero1, numero2, resultado);
+		>> Aquí se refleja los datos proporcionados, como se explico anteriormente,
+		conforme el orden que se pongan las palabras declaradas (numero1, numero2, resultado)
+		sera como se imprimira
+		}

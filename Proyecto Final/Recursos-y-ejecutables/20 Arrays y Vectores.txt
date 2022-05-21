@@ -1,0 +1,13 @@
+						> Arrays y Vectores <
+
+	El array es un identificador que referencia un cojunto de datos del mismo tipo, un dato int, donde
+	podemos crear un conjunto de datos de ese tipo y utilizar uno u otro con sólo cambiar el índice
+	que lo referencia.
+
+	Los vectores son arrays unidimensionales, sólo utilizara un índice para referencia a cada uno de
+	los elementos.
+
+	tipo nombre [tamaño];
+
+
+

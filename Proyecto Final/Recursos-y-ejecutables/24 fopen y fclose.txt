@@ -1,0 +1,46 @@
+						> fopen y fclose <
+
+	Con estos comandos, podemos hacer que se puedan mostrar el contenido de un archivo txt, 
+	también se puede crear uno nuevo, editar una ya existente, o en casos extremos, eliminar
+	texto del mismo.
+
+	Para hacer ello, se hace de la siguiente manera:
+
+	main() {
+		setlocale(LC_ALL, "spanish");
+		FILE *archivo;
+		char caracter;
+
+		archivo = fopen("1 Lenguaje de Programación C.txt", "r");
+		if(archivo==NULL) {
+			printf("Error al ejecutar el archivo\n");
+		} else {
+			printf("Aquí esta el contenido del archivo: \n\n");
+			while(feof(archivo)==0) {
+				//La función: feof Comprueba el indicador al final del archivo
+
+				caracter=fgetc(archivo);
+				//La función fgetc obtiene el siguiente caracter
+				printf("%c", caracter);
+			}
+		}
+		fclose(archivo);
+	
+		system("pause");
+		return 0;
+	}
+
+	Al momento de crear la estructura, se pueden hacer que haga diferentes funciones, la cual
+	se declara después de colocar el nombre del archivo (“r”), las funciones son las siguientes:
+
+	Operador	Descripción
+
+	w		Crea un fichero de escritura, si ya existe, lo crea de nuevo.
+	w+		Crea un fichero de lectura y escritura, si ya existe, lo crea de nuevo.
+	a		Abre o crea un fichero para añadir datos al final de mismo.
+	a+		Abre o crea un fichero para leer y añadir datos al final del mismo.
+	r		Abre un fichero de lectura.
+	r+		Abre un fichero de lectura y escritura
+
+
+

@@ -1,0 +1,18 @@
+					> Operadores relacionales o de comparación <
+
+	Los operadores relacionales son aquellos las cuales podemos comparar 2 valores, si es menor,
+	mayor o igual uno que otro.
+
+	Existen 6 operadores, las cuales son:
+
+	Signo	Operación
+
+	<	Menor que
+	> 	Mayor que
+	<=	Menor o igual que
+	>=	Mayor o igual que
+	==	Igual a
+	!=	Distinto de
+
+
+

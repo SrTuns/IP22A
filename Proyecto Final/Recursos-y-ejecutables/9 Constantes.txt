@@ -1,0 +1,19 @@
+							> Constantes <
+
+	En el lenguaje C, las constantes se declaran con la directiva “#define”, por lo que este hace que su
+	Valor sea el mismo durante todo el programa, por ejemplo:
+
+	#include <stdio.h>
+	#define pi 3.1416
+	#define escribe printf
+	main() /* Calcula el perímetro */
+	{
+		int r;
+		printf("Introduce el radio: ");
+		scanf("%d",&r);
+		printf("El perímetro es: %f",2*pi*r);
+	}
+
+
+
+

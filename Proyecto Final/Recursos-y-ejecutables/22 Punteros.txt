@@ -1,0 +1,12 @@
+						> Punteros <
+
+	Los punteros permiten un código mas compacto y eficiente, mayormente utilizadas de forma
+	ordenada para mejor flexibilidad a la programación.
+
+	Su sintaxis es “tipo *nombre;”
+
+	Donde nombre es el “Nombre” de la variable, y el tipo, el tipo de elemento cuya dirección
+	almacena el puntero.
+
+
+

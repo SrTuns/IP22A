@@ -1,0 +1,12 @@
+				> Matrices bidimensionales y tridimensionales <
+
+	Una matriz de un array multidimensinal, la cual se defien igual que los vectores, excepto que se
+	requiere un índice por cada dimensión.
+
+	tipo nombre [tamaño 1][tamaño2]…;
+
+	La matriz bidimensional se podría representar gráficamente como una tabla de filas y columnas,
+	mientras que la tridimensional, como en gráficos en 3D.
+
+
+

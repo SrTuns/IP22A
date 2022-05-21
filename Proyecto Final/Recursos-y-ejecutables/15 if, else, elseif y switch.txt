@@ -1,0 +1,92 @@
+					     > if / else / elseif / switch <
+
+	>> if/else/elseif <<
+
+	Son tipos de sentencia de control donde la condición es la expresión que será evaluada, si es
+	verdadera se ejecutara lo ordenado, si es falso, sera ignorado.
+
+	Un ejemplo de esta mecanica, es en la cual puedes proporner varios escenarios donde el usuario
+	tiene que cumplir el primer caso, de no ser así, pasara al segundo, de no ser acertado, seguira
+	hasta que cumpla uno o directamente no sea posible hacerlo.
+
+	En este ejemplo se puede ver que dice “si” (if) edad de menor que “1”, imprima “Lo siento, te has
+	Equivocado”, de lo contrario, si edad es menor que 3, imprimira “Eres un bebe” y así 
+	sucesivamente.
+
+		main()
+		{
+	  	 int edad;
+	   	printf("Introduce tu edad: ");
+	   	scanf("%d",&edad);
+	   	if (edad<1)
+	      		printf("Lo siento, te has equivocado.");
+	   	else if (edad<3) printf("Eres un bebé");
+	   	else if (edad<13) printf("Eres un niño");
+	   	else printf("Eres adulto");
+		}
+
+	>> switch <<
+
+	Esta estructura se suele utilizar en los menús, donde las opciones son en mayor cantidad, ademas
+	te ayuda a no consumir tanta memoria a comparación de los else if.
+	Su capacidad es extensa, y para poder llamar un caso, se suele usar el numero de dicho paso,
+	por ejemplo:
+
+	main() {
+		setlocale(LC_ALL, "spanish");
+		int dia;
+
+		printf("Operador Switch()\n\n");
+		printf("Selecciona un día de la semana:\n\n");
+		printf("1. Lunes\n");
+		printf("2. Martes\n");
+		printf("3. Miercoles\n");
+		printf("4. Jueves\n");
+		printf("5. Viernes\n");
+		printf("6. Sabado\n");
+		printf("7. Domingo\n");
+		scanf("%d", &dia);
+
+		switch(dia) {
+			case 1:
+				printf("Buen inicio de semana\n");
+			break;
+
+			case 2:
+				printf("Martes de frescura\n");
+			break;
+		
+			case 3:
+				printf("Miercoles de tianguis\n");
+			break;
+		
+			case 4:
+				printf("Juevez\n");
+			break;
+		
+			case 5:
+				printf("Día de descanzo\n");
+			break;
+
+			case 6:
+				printf("amonos resio\n");
+			break;
+		
+			case 7:
+				printf("Día de misa\n");
+			break;
+		
+			default:
+				printf("Nomas existen 7 días\n");
+			break;
+		}
+
+	Lo primero que tendrías que hacer, es declarar la variable que vas a usar al momento de capturar
+	el dato que se usara para llamar el caso, posterior a eso, crearas un menú donde mostrara al 
+	usuario las opciones que tiene y podrás un “scanf” para que guarde dicha opción seleccionada.
+	Despues de ello, haras una estructura con “switch” donde pondrás los casos dependiendo de los
+	casos que ocuparas con su respectiva acción.
+
+
+
+

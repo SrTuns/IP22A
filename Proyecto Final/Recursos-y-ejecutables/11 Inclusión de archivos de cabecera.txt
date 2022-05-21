@@ -1,0 +1,19 @@
+					> Inclusión de archivos de cabecera <
+
+	Es posible usar funciones las cuales no están incluidas en el propio programa, es por ello que se
+	utiliza la directiva #include, la cual no facilita el poder añadir librerías o funciones que estén
+	dentro de otros ficheros a nuestro programa.
+
+	Para utilizar dichos ficheros, se tienen que escribir en el código desde el inicio,
+	se puede hacerlo de 2 maneras:
+
+	     >> 1 <<
+	#include "misfunc.h"
+	#include "c:\includes\misfunc.h"
+
+	     >> 2 <<
+	#include <misfunc.h>
+
+
+
+

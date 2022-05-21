@@ -1,0 +1,14 @@
+				  > Operadores lógicos y tabla de verdad <
+
+	Las expresiones conectadas con los operadores se avalúan de izquierda a derecha, y la evaluación
+	se detiene cuando el resultado es verdadero o falso.
+
+	Signo	Operación
+
+	&&	AND
+	||	OR
+	!	NOT
+
+
+
+

@@ -1,0 +1,22 @@
+						  > Estructura <
+
+	La estructura consta de funciones, la principal se llama “main” con la cual se pueden llamar
+	a otras funciones, a su vez, cada función tiene que contener: cabecera, argumentos y sentencias.
+
+
+						    > Ejemplo <
+
+						declaraciones globales
+
+						main( ) {
+							variables locales
+							bloque
+						}
+
+						funcion1( ) {
+							variables locales
+							bloque
+						}
+
+
+

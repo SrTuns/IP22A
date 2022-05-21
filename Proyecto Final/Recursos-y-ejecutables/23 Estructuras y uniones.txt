@@ -1,0 +1,19 @@
+					> Estructuras y uniones <
+
+	Una estructura es una colección de elementos finita y heterogénea, se utilizan para resolver
+	problemas que involucran tipos de datos estructurados.
+
+	Su sintaxis es la siguiente:
+
+	struct tipo_estructura
+	{
+	tipo_variable nombre_variable1;
+	tipo_variable nombre_variable2;
+	tipo_variable nombre_variable3;
+	};
+
+	Donde tipo_estructura es el nombre del nuevo tipo de dato, tipo_variable y nombre_variable
+	son las que forman parte de la estructura.
+
+
+
