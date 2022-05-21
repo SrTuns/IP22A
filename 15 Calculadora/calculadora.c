@@ -7,26 +7,26 @@ main() {
 	int opcion;
 	float numero1, numero2, resultado;
 
-	printf("\nCalculadora B醩ina con Operadores Arim閠icos\n");
+	printf("\nCalculadora B谩sina con Operadores Arim茅ticos\n");
 
-	printf("\nSeleciona la operaci髇 que desea hacer\n");
+	printf("\nSeleciona la operaci贸n que desea hacer\n");
 	printf("  #-------------------------------------------------#\n");
 	printf("  #                     Calculadora                 #\n");
 	printf("  #                                                 #\n");
 	printf("  #       1. Suma                       2. Resta    #\n");
 	printf("  #        (10+5)                         (10-5)    #\n");
 	printf("  #                                                 #\n");
-	printf("  #  3. Multiplicaci髇                 4. Divisi髇  #\n");
+	printf("  #  3. Multiplicaci贸n                 4. Divisi贸n  #\n");
 	printf("  #        (10*5)                         (10/5)    #\n");
 	printf("  #                                                 #\n");
-	printf("  #                      5. M骴ulo                  #\n");
+	printf("  #                      5. M贸dulo                  #\n");
 	printf("  #                                                 #\n");
 	printf("  #-------------------------------------------------#\n\n\n");
-	printf(">> Escoge una opci髇: ");
+	printf(">> Escoge una opci贸n: ");
 	scanf("%d", &opcion);
 
 	if(opcion==5) {
-		printf("\n>> A鷑 se esta trabajando en esto, usa otro metodo >//<\n\n");
+		printf("\n>> A煤n se esta trabajando en esto, usa otro metodo >//<\n\n");
 
 	system("pause");
 	return 0;
@@ -34,7 +34,7 @@ main() {
 	}
 
 	if(opcion>=6) {
-		printf("\n>> Esa opci髇 no existe, favor de escoger alguna de las opciones existentes! <<\n\n");
+		printf("\n>> Esa opci贸n no existe, favor de escoger alguna de las opciones existentes! <<\n\n");
 
 	system("pause");
 	return 0;
@@ -42,19 +42,19 @@ main() {
 	}
 
 /*	if(opcion==1) {
-		printf("\n>> (Suma) Ingresa un n鷐ero entero: ");
+		printf("\n>> (Suma) Ingresa un n煤mero entero: ");
 	} else 	if(opcion==2) {
-		printf("\n>> (Resta) Ingresa un n鷐ero entero: ");
+		printf("\n>> (Resta) Ingresa un n煤mero entero: ");
 	} else 	if(opcion==3) {
-		printf("\n>> (Multiplicaci髇) Ingresa un n鷐ero entero: ");
+		printf("\n>> (Multiplicaci贸n) Ingresa un n煤mero entero: ");
 	} else 	if(opcion==4) {
-		printf("\n>> (Divisi髇) Ingresa un n鷐ero entero: ");
+		printf("\n>> (Divisi贸n) Ingresa un n煤mero entero: ");
 	}	scanf("%f %f", &numero1, &numero2); */
 
-	printf("\n>> (Opci髇 %d) Ingresa un N鷐ero entero: ", opcion);
+	printf("\n>> (Opci贸n %d) Ingresa un N煤mero entero: ", opcion);
 	scanf("%f", &numero1);
 
-	printf("\n>> (Opci髇 %d) Intresa otro N鷐ero entero: ", opcion);
+	printf("\n>> (Opci贸n %d) Intresa otro N煤mero entero: ", opcion);
 	scanf("%f", &numero2); 
 
 /*	if(opcion==1) { //Calculadora con if
@@ -97,7 +97,7 @@ main() {
 		break;
 
 		default:
-			printf("\n>> No existe esa opci髇 <<\n");
+			printf("\n>> No existe esa opci贸n <<\n");
 		break;
 
 	}
