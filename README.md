@@ -8,7 +8,8 @@
 - :two: Estrella
 - :three: Función Propia
 - :four: Comentarios
-- :five: Variables
+- :five: Variables 
+- :six: [Link test]([https://www.google.com](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c))
 
 
 ###### :cookie:
