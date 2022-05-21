@@ -10,6 +10,10 @@
 - :four: Comentarios
 - :five: Variables 
 - :six: [Link test](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
+- :seven: Operadores y Expresiones
+- :eight: Calificación
+- :nine: Condicional IF y Números Divisibles
+- :one::zero: Elseif
 
 
 ###### :cookie:
