@@ -1,4 +1,4 @@
-# :clipboard: Repositorio de Trabajos de Clase de Programación :computer:
+# :clipboard: Repositorio de Trabajos de Clase de Introducción a la Programación :computer:
 
 - Repositorio personal de actividades y/o trabajos realizados.
 - Lenguaje: C
